@@ -1,0 +1,7 @@
+{
+	"theme": "Default.sublime-theme",
+	"ignored_packages":
+	[
+		"Vintage",
+	],
+}
